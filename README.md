@@ -1,6 +1,6 @@
 # DocumentationExample
 
-Proyek ini dibuat untuk **CODELAB 1 Modul 3 Pemrograman Lanjut**.  
+Proyek ini dibuat untuk **Modul 3 Pemrograman Lanjut**.  
 Tujuannya adalah mempraktikkan cara **commit** dan **push** proyek Java ke **GitHub** menggunakan **IntelliJ IDEA**.
 
 ---
