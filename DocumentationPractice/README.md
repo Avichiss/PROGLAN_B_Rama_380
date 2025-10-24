@@ -10,6 +10,7 @@ Tujuannya untuk memahami cara membuat file README dan menjelaskan isi proyek.
 1. Buka proyek di IntelliJ IDEA.
 2. Jalankan file `Main.java`.
 3. Program akan menampilkan output ke konsol.
+4. Terimakasih.
 
 ## 💻 Contoh Kode
 ```java
